@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "98HLRsj+VwvgCrq0tSx6O2B2cqMtSo8Cuvf07YFBV3JP0q9y9Slxph73porXD53znMa/dkHJnDcJuZwgLnvP0Q==",
+  "dgSpecHash": "CITVNr+Syz1sUHePOeYd/3AOmefuNfi8b2m06bR/UIm60tY1DOvKq9Tw8Xy+sztIXPeUt7h4spHLJxkWL35ZCQ==",
   "success": true,
-  "projectFilePath": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/BlazorServerSignalRApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\BlazorServerSignalRApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.2\\microsoft.aspnetcore.connections.abstractions.7.0.2.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\7.0.2\\microsoft.aspnetcore.http.connections.client.7.0.2.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\7.0.2\\microsoft.aspnetcore.http.connections.common.7.0.2.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\7.0.2\\microsoft.aspnetcore.signalr.client.7.0.2.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\7.0.2\\microsoft.aspnetcore.signalr.client.core.7.0.2.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\7.0.2\\microsoft.aspnetcore.signalr.common.7.0.2.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\7.0.2\\microsoft.aspnetcore.signalr.protocols.json.7.0.2.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.extensions.features\\7.0.2\\microsoft.extensions.features.7.0.2.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\b19162_鹿児島\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
