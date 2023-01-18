@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "7auaSZh98whiYSH0ZrRiMUP9ll4RvXTQnmneOcnhSOQ=",
+=======
+  "Hash": "tuKxwtaVVgVr1KRDiXzN8mPYSt+19c0YvVqklXj3gEo=",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
   "Source": "BlazorServerSignalRApp",
   "BasePath": "_content/BlazorServerSignalRApp",
   "Mode": "Default",
@@ -8,19 +12,32 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
+<<<<<<< HEAD
       "Name": "BlazorServerSignalRApp/wwwroot",
       "Source": "BlazorServerSignalRApp",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "Name": "BlazorServerSignalRApp\\wwwroot",
+      "Source": "BlazorServerSignalRApp",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/bundle/BlazorServerSignalRApp.styles.css",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Computed",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/bundle/",
+=======
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorServerSignalRApp.styles.css",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "BlazorServerSignalRApp.styles.css",
       "AssetKind": "All",
@@ -31,6 +48,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/bundle/BlazorServerSignalRApp.styles.css"
     },
     {
@@ -38,6 +56,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Computed",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/projectbundle/",
+=======
+      "OriginalItemSpec": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorServerSignalRApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorServerSignalRApp.bundle.scp.css",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "BlazorServerSignalRApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,6 +75,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/projectbundle/BlazorServerSignalRApp.bundle.scp.css"
     },
     {
@@ -55,6 +83,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorServerSignalRApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -65,6 +102,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
@@ -72,6 +110,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -82,6 +129,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
@@ -89,6 +137,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -99,6 +156,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
@@ -106,6 +164,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -116,6 +183,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
@@ -123,6 +191,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -133,6 +210,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
@@ -140,6 +218,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,6 +237,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
@@ -157,6 +245,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -167,6 +264,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
@@ -174,6 +272,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -184,6 +291,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
@@ -191,6 +299,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -201,6 +318,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
@@ -208,6 +326,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -218,6 +345,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
@@ -225,6 +353,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\open-iconic\\README.md",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -235,6 +372,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
@@ -242,6 +380,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\css\\site.css",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -252,6 +399,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
@@ -259,6 +407,15 @@
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/BlazorServerSignalRApp/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\favicon.png",
+      "SourceId": "BlazorServerSignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\b19162_鹿児島\\Documents\\repos\\BlazorServerSignalRApp4\\wwwroot\\",
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -269,7 +426,11 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/favicon.png"
+=======
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+>>>>>>> 205685ad2712679e3fcf6a2e89cbe3785f9c882b
     }
   ]
 }
